@@ -12,7 +12,7 @@
       ></TableRow>
     </div>
     <div class="contact-list__table-actions">
-      <button @click="openModal" class="add-button">Добавить</button>
+      <button class="contact-list__table-actions-btn" @click="openModal">Добавить</button>
     </div>
     <ModalForm
       :contacts="contacts"
@@ -134,11 +134,12 @@ export default {
 <style scoped>
   .contacts-list {
     display: flex;
-    border: 1px solid #4caf50;
+    border: 1px solid #cfd1cd;
     flex-direction: column;
     gap: 10px;
     max-width: 800px;
     padding: 10px;
+    border-radius: 8px;
   }
 
   .contact-list__table-header {
@@ -153,15 +154,15 @@ export default {
   .contact-list__table-header-cell {
     width: 50%;
     padding: 5px;
-    border: 1px solid #4caf50;
+    border: 1px solid #B5B8B1;
     border-collapse: collapse;
+    border-radius: 4px;
   }
   .contact-list__table-header-cell:first-child {
     cursor: pointer;
   }
 
-  .contact-list__table-actions > button {
-
+  .contact-list__table-actions-btn {
     background-color: #4caf50;
     color: white;
     padding: 10px 20px;
@@ -170,7 +171,7 @@ export default {
     cursor: pointer;
   }
 
-  .contact-list__table-actions > button:hover {
+  .contact-list__table-actions-btn:hover {
     background-color: #6bbf6e;
   }
 </style>

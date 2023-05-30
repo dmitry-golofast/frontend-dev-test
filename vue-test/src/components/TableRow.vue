@@ -73,6 +73,7 @@
 
   .table-row__cell {
     display: flex;
+    padding: 5px;
     flex-basis: 50%;
     font-size: 18px;
   }
@@ -92,10 +93,10 @@
     background-color: #b0b0b0;
     color: #fff;
     font-size: 16px;
+    margin-right: 5px;
   }
 
   .table-row__actions--open {
     background-color: #cccccc;
   }
-  </style>
 </style>

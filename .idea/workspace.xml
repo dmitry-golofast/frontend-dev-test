@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2a5c19b-078e-4e18-9ac5-b7bd6a4358f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frontend-dev-test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-test/src/components/ContactsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-test/src/components/ContactsList.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue-test/src/components/TableRow.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue-test/src/components/TableRow.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QSg33AfFWad7Ugk7MNnZzT1Kby" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2a5c19b-078e-4e18-9ac5-b7bd6a4358f8" name="Default Changelist" comment="" />
+      <created>1685352193473</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685352193473</updated>
+      <workItem from="1685352194696" duration="18062000" />
+      <workItem from="1685388740478" duration="134000" />
+      <workItem from="1685389027514" duration="609000" />
+      <workItem from="1685431212628" duration="26174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1685377903793">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="693" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1858.1080/1982.0.1304.768@0.0.1858.1080" timestamp="1685377903793" />
+    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1685377854880">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="659" y="287" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1858.1080/1982.0.1304.768@0.0.1858.1080" timestamp="1685377854880" />
+    <state x="636" y="275" width="585" height="530" key="find.popup" timestamp="1685447036520">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="636" y="275" width="585" height="530" key="find.popup/0.0.1858.1080/1982.0.1304.768@0.0.1858.1080" timestamp="1685447036520" />
+    <state x="585" y="250" key="run.anything.popup" timestamp="1685379825326">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="585" y="250" key="run.anything.popup/0.0.1858.1080/1982.0.1304.768@0.0.1858.1080" timestamp="1685379825326" />
+  </component>
+</project>
